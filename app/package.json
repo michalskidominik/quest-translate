@@ -1,0 +1,13 @@
+{
+  "name": "quest-translate",
+  "description": "Metin2 Quest Translator",
+  "author": {
+    "name": "Dominik Michalski",
+    "email": "michalski.dominik@icloud.com"
+  },
+  "version": "12.0.0",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+  }
+}
